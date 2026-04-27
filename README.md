@@ -37,11 +37,6 @@ To understand the impact of **Display++**, refer to the 1:1 scale comparisons be
 
 ---
 
-## Technical Specifications
-- **[span_0](start_span)Author:** daxd11[span_0](end_span)
-- **[span_1](start_span)Core Engine:** SurfaceFlinger Saturation Control[span_1](end_span)
-- **[span_2](start_span)Boot Detection:** Dynamic monitoring via `service.sh` to ensure proper application after system boot[span_2](end_span).
-
 ## Installation & Removal
 1. **Installation:** Flash the module via your preferred root manager (Magisk/KernelSU/APatch).
 2. **Reboot:** A device restart is required to initialize the SurfaceFlinger service call.
