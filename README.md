@@ -1,4 +1,4 @@
-# Display++
+# Display++ Universal
 
 ![Banner](./assets/banner.png)
 
